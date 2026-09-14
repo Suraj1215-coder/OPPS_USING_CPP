@@ -1,0 +1,9 @@
+# C++ build artifacts
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# Preserved metadata from the previous nested repository
+OPPS_USING_CPP/.git.pre-root-backup/

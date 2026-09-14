@@ -1,0 +1,6 @@
+The general format of a function template is:
+
+template<class T>
+return-type function-name(arguments of type of T)
+
+// body of function with type T

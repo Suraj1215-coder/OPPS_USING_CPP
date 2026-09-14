@@ -1,0 +1,13 @@
+problem statement:-
+
+                        void display(int x,int y)
+                        {
+                            cout<<x<<y;
+                        }
+                        int main()                                  NOT WORKED BCOZ PARAMETERS ONLY 2 and function calling main 3  or 4 pass ho rahe hai 
+                        {
+                            display(20,10,30,40);
+                        }
+Solution:-
+             Variadic function:- Variable length argument function.
+             
