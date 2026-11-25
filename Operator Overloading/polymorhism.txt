@@ -1,0 +1,2 @@
+one name multiple forms (10 + 12.3 = 22.3  and  "A" + "B" = "AB")
+where + = operator (one name)

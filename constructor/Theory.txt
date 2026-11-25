@@ -1,0 +1,11 @@
+Types of constructor:-
+1) Default Constructor:- No parameters 
+2) Parametrized constructor:- Parameters exist
+3) Copy Constructor:- ek object ko dusere object main copy kar du 
+4) Inline Constructor:- Class ke ander constructorco define karna 
+
+Calling Rule
+1) Calling constructor explicitly(ConstructorName object  = Constructor(parameters)
+Example E1 = Example(10,20);
+2) Calling constructor implicitly(ConstructorName object(parameters))
+Example E2(10,20);

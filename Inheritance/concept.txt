@@ -1,0 +1,14 @@
+syntax:
+
+
+
+clss derived-class-name:visibility-mode(as public,private,proctected) base-class-name{
+
+____________
+____________
+____________
+------------
+
+
+
+}
